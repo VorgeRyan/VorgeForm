@@ -1,0 +1,9 @@
+name: VorgeForm
+main: VorgeForm\Main
+author: vorge
+api: 3.14.0
+version: 1.0
+
+commands:
+  north:
+    description: "Brings up a form!"
